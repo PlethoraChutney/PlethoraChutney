@@ -1,4 +1,5 @@
-### Hi there 👋
+I'm a grad student studying the epithelial sodium channel. I mostly do 
+that just to generate data for data vis projects.
 
 <!--
 **PlethoraChutney/PlethoraChutney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
